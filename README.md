@@ -1,2 +1,2 @@
 # Welcome To BetterdiscordAddons
-Comming Soon!
+Coming Soon!
